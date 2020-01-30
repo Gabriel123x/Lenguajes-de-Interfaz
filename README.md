@@ -1,2 +1,2 @@
 # Lenguajes-de-Interfaz
-Repositorio utilizado para clase
+Repositorio utilizado por Acevedo Ensiso Pedro Garbriel
